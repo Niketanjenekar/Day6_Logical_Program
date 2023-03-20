@@ -8,7 +8,7 @@ class Program
         //TestProgram.Fibonacciseriesproblem();
         //PerfectNumberProblem.FindPerfectNumber();
         //ReverseTheNumber.ReversetheNumbers();
-        Primenumber.Number();
-
+        //Primenumber.Number();
+        CouponNumber.Couponnumbers();
     }
 }
